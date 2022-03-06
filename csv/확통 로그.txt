@@ -1,0 +1,29 @@
+.LOG
+# button
+https://www.geeksforgeeks.org/python-add-style-to-tkinter-button/ 
+# matplotlib & tkinter
+https://stackoverflow.com/questions/54131948/how-do-i-use-a-button-to-switch-between-two-different-graphs-in-matplotlib
+# tk & matplt
+https://ishantheperson.github.io/posts/tkinter-matplotlib/
+
+오전 11:42 2022-03-05
+https://moonbooks.org/Articles/How-to-plot-a-circle-in-python-using-matplotlib-/
+
+https://datatofish.com/matplotlib-charts-tkinter-gui/
+
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
+
+https://rfriend.tistory.com/355
+###
+https://towardsdatascience.com/how-to-easily-convert-a-python-script-to-an-executable-file-exe-4966e253c7e9
+
+### 예측
+https://facebook.github.io/prophet/docs/quick_start.html
+### 주식
+https://velog.io/@tonymetricstudio/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A3%BC%EC%8B%9D-%EC%83%9D%EA%B0%81-%ED%95%9C%EA%B5%AD-%EC%A3%BC%EC%8B%9D-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91
+### 넥슨 주식 
+https://ir.nexon.co.jp/kr/stock/price.html
+### 도지 코인
+https://blog.jovian.ai/exploratory-data-analysis-on-dogecoin-using-python-1ddc1ab550c3
+도지코인 .csv
+https://www.kaggle.com/dhruvildave/dogecoin-historical-data/version/149
